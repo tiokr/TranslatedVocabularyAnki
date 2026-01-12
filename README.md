@@ -82,3 +82,4 @@ Happy learning!
 - Google Translate supports many more languages than Deepl does, so depending on the language you're trying to learn the current code may not work for you. It'd be nice to make Deepl translation optional, so that more people can benefit from just the Google Translate functionality. If this is something you urgently need, let me know by opening an issue on this GitHub project!
 - It would be amazing to add support for verb conjugations, but manually adding those is an absolute pain.
 Depending on the language of interest, it may be possible to use some conjugation website to automatically get all conjugations for a given verb.
+- Instead of inputting a list of English words/phrases, make an option to input a list of words that is already known in the learning language (so that the sound can be looked up in google) and translate back to English (or whatever the verification language is) instead.
